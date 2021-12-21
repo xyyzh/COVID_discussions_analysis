@@ -1,0 +1,55 @@
+{
+  "efficacy": "21.9%",
+  "mandate": "22.4%",
+  "political": "11.5%",
+  "children": "5.4%",
+  "side_effect": "11.3%",
+  "information": "9.3%",
+  "unvax": "13.0%",
+  "spread": "5.1%"
+}
+
+{"positive": "41.2%", "negative": "38.0%", "neutral": "20.8%"}
+
+{
+  "efficacy": {
+    "positive": "42.0%",
+    "negative": "47.9%",
+    "neutral": "10.0%"
+  },
+  "mandate": {
+    "positive": "37.9%",
+    "negative": "49.1%",
+    "neutral": "12.9%"
+  },
+  "political": {
+    "positive": "35.7%",
+    "negative": "42.6%",
+    "neutral": "21.7%"
+  },
+  "children": {
+    "positive": "37.0%",
+    "negative": "37.0%",
+    "neutral": "25.9%"
+  },
+  "side_effect": {
+    "positive": "31.9%",
+    "negative": "53.1%",
+    "neutral": "15.0%"
+  },
+  "information": {
+    "positive": "17.2%",
+    "negative": "2.2%",
+    "neutral": "80.6%"
+  },
+  "unvax": {
+    "positive": "73.1%",
+    "negative": "18.5%",
+    "neutral": "8.5%"
+  },
+  "spread": {
+    "positive": "51.0%",
+    "negative": "19.6%",
+    "neutral": "29.4%"
+  }
+}
